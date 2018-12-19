@@ -201,6 +201,14 @@ Here is a list of them:
       <a href="https://issuetracker.springsource.com/browse/STS-3294"> STS-3294</a>
     </td>
   </tr>    
+  <tr>
+	<td>
+		New edit
+	</td>
+	<td>
+		Jenkins is fun
+	</td>
+  </tr>
 </table>
 
 
